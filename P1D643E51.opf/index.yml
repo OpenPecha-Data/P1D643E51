@@ -1,0 +1,22 @@
+id: 185b340163f24693803d1fbb030ca01c
+annotation_type: index
+revision: '00001'
+annotations:
+  7e3743fb362941989694fd693d0fa308:
+    work_id: WB42F6CA2
+    span:
+      vol: CIII_Third division explanations
+      start: 0
+      end: 117428
+  4b6ddcaf7c0f421eaf3c4eb2a205c5c4:
+    work_id: W4F9AFA23
+    span:
+      vol: CII_Second division explanations
+      start: 0
+      end: 80124
+  0236bda6da6740569899286f80fd6fb6:
+    work_id: W54C71237
+    span:
+      vol: CI_First division explanations
+      start: 0
+      end: 78223
